@@ -1,0 +1,25 @@
+@media (max-width: 575px){
+.menu{
+position: inherit;}
+.menu a{
+width: 100%;
+padding: 20px 0;}
+.heder{
+    margin-top:0 ;
+    padding: 100px 10px;
+    background-size: cover;
+    background-position: center;
+    min-height:300px ;}
+.team .member{
+    width: 100%;
+    padding: 20px 0;}
+.about img{
+float: left;
+margin-left: 20px;
+}
+.prices .tariffs{
+    width: 100%;
+    padding: 20px 0;
+}
+}
+
